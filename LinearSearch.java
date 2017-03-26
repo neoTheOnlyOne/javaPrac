@@ -7,6 +7,10 @@ import java.util.Scanner;
 
 public class LinearSearch
 {
+	
+	//this is a program for which implements linear search algorithm
+	
+	
    public static void main(String args[])
    {
        int arr[] = new int[10];
