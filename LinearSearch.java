@@ -9,6 +9,7 @@ public class LinearSearch
 {
 	
 	//this is a program for which implements linear search algorithm
+	// this is 2nd commit
 	
 	
    public static void main(String args[])
